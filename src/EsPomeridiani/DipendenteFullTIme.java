@@ -12,4 +12,5 @@ public class DipendenteFullTIme extends Dipendente {
     public double calculateSalary() {
         return getStipendio();
     }
+
 }
